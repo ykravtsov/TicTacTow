@@ -1,0 +1,7 @@
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\bin\Debug\TicTacTowTests.dll
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\bin\Debug\TicTacTowTests.pdb
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\bin\Debug\TicTacTow.exe
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\bin\Debug\TicTacTow.pdb
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\obj\Debug\TicTacTowTests.csprojResolveAssemblyReference.cache
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\obj\Debug\TicTacTowTests.dll
+c:\users\yuriy\documents\visual studio 2013\Projects\TicTacTow\TicTacTowTests\obj\Debug\TicTacTowTests.pdb
